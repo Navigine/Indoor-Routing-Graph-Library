@@ -1,3 +1,7 @@
+# Indoor-Routing-Library
+
+[![Build](https://github.com/Navigine/Indoor-Routing-Library/actions/workflows/ubuntu.yml/badge.svg)](https://github.com/Navigine/Indoor-Routing-Library/actions/workflows/ubuntu.yml)
+
 This library contains a set of algorithms for working with the routing graph.  
 The main features are:
 
