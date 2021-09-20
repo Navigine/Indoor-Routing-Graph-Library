@@ -1,4 +1,4 @@
-# Contributing to Navigine Routing Library
+# <p align="center"> Contributing to Navigine Routing Library </p>
 
 The easiest way to help out is to submit bug reports and feature requests on our [issues](https://github.com/Navigine/Indoor-Routing-Library/issues) page.
 
